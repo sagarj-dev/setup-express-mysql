@@ -1,0 +1,19 @@
+{
+  "version": "v0.0.2",
+  "notes": "- ADD CHANGELOG",
+  "pub_date": "2023-12-14T11:59:33Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://aviteus-crm-static.s3.eu-west-2.amazonaws.com/tauri-updates/v0.0.3/Aviteus_0.0.3_x64_en-US.msi.zip",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRjZoY2JmSHZJTW9heFY3Q0hpYkVmU0JxdUkzNkN2dHBTcE5NOU5XVmNyU21TRmJMTW5XTGRvamRGdHRwaE9adWVLR3hpWUEzK3FTbTBic3RBVVN4R3QwOFo1RGEzc1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAyNTU1Njc1CWZpbGU6QXZpdGV1c18wLjAuM194NjRfZW4tVVMubXNpLnppcAozYTRLaGRBVXV2QVNueFVvUk8xdjJDazUyK2t2Mm1NaExlc3JndTU2dzZkcFYxbHpvU3BZRW9XVExDUnZyZUkxUVYwRkxpQ0FGbmpyRW9DVjE2SHBBdz09Cg=="
+    },
+    "darwin-x86_64": {
+      "url": "https://aviteus-crm-static.s3.eu-west-2.amazonaws.com/tauri-updates/v0.0.3/Aviteus_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRjZoY2JmSHZJTW1ucE00MG5iaHd6bGZRUytFMzExVmVGTk8xalRxeW5VSXRWU3F3b2xFQ0NoaWc3VmltemluM1Y3WDR2TW5HR1hZYk8zT2F2R0RMMktsbUppaVk4ZXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAyNTU1MTcyCWZpbGU6QXZpdGV1cy5hcHAudGFyLmd6CjJZYzRPZHl4QVBwSUFuaVBROENMS3V1ZUVrTmRxUFNnNSttQWxRL2pCYlJPQk5PZnRHTjlMVnU0NHd4YXp2NFJWRjc0a3U1eENIQVJ2S0lHTkgrQUNBPT0K"
+    },
+    "darwin-aarch64": {
+      "url": "https://aviteus-crm-static.s3.eu-west-2.amazonaws.com/tauri-updates/v0.0.3/Aviteus_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRjZoY2JmSHZJTW1ucE00MG5iaHd6bGZRUytFMzExVmVGTk8xalRxeW5VSXRWU3F3b2xFQ0NoaWc3VmltemluM1Y3WDR2TW5HR1hZYk8zT2F2R0RMMktsbUppaVk4ZXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAyNTU1MTcyCWZpbGU6QXZpdGV1cy5hcHAudGFyLmd6CjJZYzRPZHl4QVBwSUFuaVBROENMS3V1ZUVrTmRxUFNnNSttQWxRL2pCYlJPQk5PZnRHTjlMVnU0NHd4YXp2NFJWRjc0a3U1eENIQVJ2S0lHTkgrQUNBPT0K"
+    }
+  }
+}
